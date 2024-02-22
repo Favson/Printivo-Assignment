@@ -9,7 +9,7 @@
     padding-left: 100px;
     padding-bottom: 20px;
 }
-.st_nav div a{
+.costa{
     text-decoration: none;
     color:#506683;
     font-family: Arial;
@@ -18,15 +18,22 @@
     margin-left: 20px;
 }
 
-.st_nav .Whatsapp{
+.Whatsapp{
    margin-right: 20px;
 }
+
 .Need{
     margin-left: 300px;
+    text-decoration: none;
+    color:#506683;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: 600;
 }
 
 .Number{
-    color: rgb(70, 70, 163);
+    color: #47B8F3;
+    text-decoration: none;
     margin-left:-0.5px;
     margin-right: 20px;
 }
