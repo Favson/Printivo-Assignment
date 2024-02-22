@@ -5,15 +5,17 @@
 }
 .st_nav{
     background-color: #f7f6f4;
-    color: grey;
-   padding-left: 100px;
-   padding-bottom: 20px;
+    color: grey;        
+    padding-left: 100px;
+    padding-bottom: 20px;
 }
-.st_nav nav a{
+.st_nav div a{
     text-decoration: none;
-    color: grey;
+    color:#506683;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: 600;
     margin-left: 20px;
-    font-weight: bold;
 }
 
 .st_nav .Whatsapp{
